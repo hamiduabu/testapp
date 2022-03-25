@@ -1,1 +1,7 @@
-[{name:'jon du'}, {name: 'jan su'}];
+[
+{
+    "name": "jon du"
+},
+{
+    "name:" "jan su"
+}];
